@@ -1,0 +1,34 @@
+{
+	"workbench.colorCustomizations": {
+		"titleBar.activeBackground": "#36ff36",
+		"titleBar.activeForeground": "#000"
+	},
+	"[markdown]": {
+		"editor.unicodeHighlight.ambiguousCharacters": false,
+		"editor.unicodeHighlight.invisibleCharacters": false,
+		"editor.wordWrap": "on",
+		"editor.quickSuggestions": false,
+		"togglequotes.chars": ["\"", "'", "`"],
+		"editor.codeActionsOnSave": {
+			"source.fixAll": true
+		},
+		"editor.lineNumbers": "off",
+		"editor.formatOnSave": true
+	},
+	"[javascript]": {
+		"editor.formatOnSave": true
+	},
+	"[typescript]": {
+		"editor.formatOnSave": true
+	},
+	"files.watcherExclude": {
+		"**/.git/objects/**": true,
+		"**/.git/subtree-cache/**": true,
+		"**/node_modules/**": true,
+		"**/dist/**": true
+	},
+	"search.exclude": {
+		"**/node_modules": true,
+		"**/dist": true
+	}
+}

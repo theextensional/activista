@@ -1,9 +1,9 @@
 {
-	"recommendations": [
-		"nhoizey.gremlins",
-		"editorconfig.editorconfig",
-		"davidanson.vscode-markdownlint",
-		"spmeesseman.vscode-taskexplorer",
-		"ms-vscode.vscode-typescript-tslint-plugin"
-	]
+    "recommendations": [
+        "nhoizey.gremlins",
+        "editorconfig.editorconfig",
+        "davidanson.vscode-markdownlint",
+        "spmeesseman.vscode-taskexplorer",
+        "ms-vscode.vscode-typescript-tslint-plugin"
+    ]
 }

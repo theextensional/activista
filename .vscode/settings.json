@@ -8,7 +8,6 @@
 		"editor.unicodeHighlight.invisibleCharacters": false,
 		"editor.wordWrap": "on",
 		"editor.quickSuggestions": false,
-		"togglequotes.chars": ["\"", "'", "`"],
 		"editor.codeActionsOnSave": {
 			"source.fixAll": true
 		},

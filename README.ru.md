@@ -1,6 +1,6 @@
 # Активиста
 
-[![en](https://img.shields.io/badge/lang-en-blue.svg)](./README.en.md)
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](./README.md)
 
 <p align="center">
   <img width="150" src="./images/logo/logo.svg">

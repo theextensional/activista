@@ -1,27 +1,60 @@
-# Activista
+# Активиста
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](./README.en.md)
 
-## Development server
+<p align="center">
+  <img width="150" src="./images/logo/logo.svg">
+</p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Девиз/слоган проекта
 
-## Code scaffolding
+«Лучшее мироустройство»
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Цель проекта
 
-## Build
+Цель проекта — разработать систему для сотрудничества (далее Система), способную делать жизнь людей более эффективной, благодаря замене рутинных процессов по организации своей деятельности на более актуальные.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Результаты достижения цели
 
-## Running unit tests
+1. Самореализация человека
+2. Образование человека
+3. Персональный помощник в ведении здорового образа жизни
+4. Инструмент тайм-менеджмента
+5. Платформа для создания некоммерческих проектов
+6. Платформа для межкомандного взаимодействия
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Технические требования
 
-## Running end-to-end tests
+На данный момент [технические требования](./technical_requirements.ru.md) на стадии разработки.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Участие в проекте
 
-## Further help
+Этот проект использует [C4(Collective Code Construction Contract)](./C4.ru.md).
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Angular CLI
+
+Этот проект был создан с помощью [Angular CLI](https://github.com/angular/angular-cli) версии 13.3.4.
+
+## Сервер разработки
+
+Запустите `ng serve` для сервера разработки. Перейдите к `http://localhost:4200/`. Приложение автоматически перезагрузится, если вы измените любой из исходных файлов.
+
+## Генерация кода
+
+Запустите `ng generate component имя-компонента`, чтобы сгенерировать новый компонент. Вы также можете использовать `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+## Сборка проекта
+
+Запустите `ng build`, чтобы собрать проект. Результаты сборки будут храниться в каталоге `dist/`.
+
+## Запуск модульных тестов
+
+Запустите `ng test`, чтобы выполнить модульные тесты через [Karma](https://karma-runner.github.io).
+
+## Запуск сквозных тестов
+
+Запустите `ng e2e`, чтобы выполнить сквозные тесты на платформе по вашему выбору. Чтобы использовать эту команду, необходимо сначала добавить пакет, реализующий возможности сквозного тестирования.
+
+## Дополнительная помощь
+
+Чтобы получить дополнительную помощь по Angular CLI, используйте ng help или посетите страницу [Обзор Angular CLI и справочник команд] (<https://angular.io/cli>).

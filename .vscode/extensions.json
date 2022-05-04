@@ -1,9 +1,4 @@
 {
-    "recommendations": [
-        "nhoizey.gremlins",
-        "editorconfig.editorconfig",
-        "davidanson.vscode-markdownlint",
-        "spmeesseman.vscode-taskexplorer",
-        "ms-vscode.vscode-typescript-tslint-plugin"
-    ]
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=827846
+  "recommendations": ["angular.ng-template"]
 }

@@ -1,32 +1,27 @@
-# Активиста
+# Activista
 
-[![en](https://img.shields.io/badge/lang-en-blue.svg)](./README.en.md)
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.
 
-<p align="center">
-  <img width="150" src="./images/logo/logo.svg">
-</p>
+## Development server
 
-## Девиз/слоган проекта
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-«Лучшее мироустройство»
+## Code scaffolding
 
-## Цель проекта
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-Цель проекта — разработать систему для сотрудничества (далее Система), способную делать жизнь людей более эффективной, благодаря замене рутинных процессов по организации своей деятельности на более актуальные.
+## Build
 
-## Результаты достижения цели
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-1. Самореализация человека
-2. Образование человека
-3. Персональный помощник в ведении здорового образа жизни
-4. Инструмент тайм-менеджмента
-5. Платформа для создания некоммерческих проектов
-6. Платформа для межкомандного взаимодействия
+## Running unit tests
 
-## Технические требования
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-На данный момент [технические требования](./technical_requirements.ru.md) на стадии разработки.
+## Running end-to-end tests
 
-## Участие в проекте
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-Этот проект использует [C4(Collective Code Construction Contract)](./C4.ru.md).
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.

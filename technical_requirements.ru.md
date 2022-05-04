@@ -13,7 +13,7 @@
 7. Функционал общения
 8. Функционал проектов
 
-Детальное описание реализации функциональных блоков в разделе [Issues](https://github.com/TVP-Support/activista/issues).
+Детальное описание реализации функциональных блоков в разделе [Issues](https://github.com/TVP-Support/activista/issues), если еще не создано, предлагайте свою реализацию в виде [функционального задания](https://livetyping.com/ru/blog/chto-takoe-funkcionalnoe-zadanie-i-kak-ego-napisat).
 
 ## 2. Предлагаемый стек технологий
 

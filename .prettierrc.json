@@ -1,9 +1,9 @@
 {
-    "printWidth": 100,
-    "singleQuote": true,
-    "trailingComma": "all",
-    "quoteProps": "preserve",
-    "bracketSpacing": false,
-    "arrowParens": "avoid",
-    "embeddedLanguageFormatting": "off"
+  "printWidth": 30,
+  "singleQuote": true,
+  "trailingComma": "all",
+  "quoteProps": "preserve",
+  "bracketSpacing": true,
+  "arrowParens": "avoid",
+  "embeddedLanguageFormatting": "off"
 }

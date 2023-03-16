@@ -1,6 +1,6 @@
 {
   "name": "activista",
-  "version": "2022.12.10",
+  "version": "2023.03.16",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",

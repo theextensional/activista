@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/activista",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

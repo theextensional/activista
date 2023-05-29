@@ -29,6 +29,8 @@
 
 ## Участие в проекте
 
+Для людей не знающих программирование: [Веб-разработка Angular для нубиков](https://docs.google.com/document/d/1fpThyMg5lryKnss5ssm19d1dOVEa6ufKB9LDS6eJk28/edit?usp=sharing).
+
 Этот проект использует [C4(Collective Code Construction Contract)](./C4.ru.md).
 
 ## Angular CLI

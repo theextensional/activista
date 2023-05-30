@@ -36,5 +36,6 @@
   "search.exclude": {
     "**/node_modules": true,
     "**/dist": true
-  }
+  },
+  "files.autoSave": "onWindowChange",
 }

@@ -5,6 +5,12 @@
     "nhoizey.gremlins",
     "editorconfig.editorconfig",
     "davidanson.vscode-markdownlint",
-    "spmeesseman.vscode-taskexplorer",
+    "yzhang.markdown-all-in-one",
+    "johnpapa.angular2",
+    "john-crowson.angular-file-changer",
+    "steoates.autoimport",
+    "formulahendry.auto-rename-tag",
+    "mhutchie.git-graph",
+    "esbenp.prettier-vscode"
   ]
 }
